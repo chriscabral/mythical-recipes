@@ -1,0 +1,2 @@
+
+node['rvm']['branch'] = "master"
