@@ -1,2 +1,2 @@
 
-node['rvm']['branch'] = "master"
+default['rvm']['branch'] = "master"
