@@ -4,7 +4,7 @@ maintainer_email 'vccabral@gmail.com'
 license          'All rights reserved'
 description      'Installs/Configures mythical'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
-version          '0.1.4'
+version          '0.1.5'
 
 depends 'apt'
 depends 'gitorious'
