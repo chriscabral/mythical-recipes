@@ -7,5 +7,8 @@
 # All rights reserved - Do Not Redistribute
 #
 
-include_recipe 'apt::default'
-include_recipe 'gitorious'
+include_recipe 'apt'
+include_recipe 'jenkins'
+include_recipe 'database'
+include_recipe 'git'
+include_recipe 'python'
